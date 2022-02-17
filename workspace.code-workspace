@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "kwitter",
+			"path": "."
+		},
+		{
+			"path": "../Sound_controlled_aliens"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sound_controlled_aliens"
+	}
+}
